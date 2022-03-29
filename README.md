@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muratatak77
-- 👀 I’m interested in Ruby, Ruby on Rails
-- 🌱 I’m currently learning A
+- 👀 I’m interested in Ruby, Ruby on Rails, Algorithm, Life style coding
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
